@@ -106,8 +106,3 @@ Tech Stack
 `pandas` · `NumPy` · `SciPy` · `scikit-learn` · `imbalanced-learn (SMOTE)` · `seaborn` · `matplotlib` · `SHAP`
 
  Author:Stacey Nzighe Wachenje
-
-
-## Acknowledgements
-
-Dataset and capstone framework provided through the PU ENGAGE PMTCT capstone programme (Group 4).
