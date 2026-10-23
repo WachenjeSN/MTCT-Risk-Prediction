@@ -3,7 +3,7 @@
 A step-by-step data science notebook that profiles a PMTCT (Prevention of Mother-to-Child Transmission) cohort, identifies maternal and infant factors associated with infant HIV PCR outcome, and builds an interpretable classification model to flag infants at higher risk of transmission.
 
 > **Notebook:** [`Stacey_MTCT_RISK_Step_by_Step.ipynb`](Stacey_MTCT_RISK_Step_by_Step.ipynb)
-> **Platform:** Google Colab · **Language:** Python
+> **Platform:** Google Colab · **Language:** ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535)
 
 ---
 
@@ -101,8 +101,8 @@ The dataset contains health records used for a capstone programme and is **not i
 
 `maternal_age_years`, `maternal_viral_load_copies_ml`, `cd4_count_cells_mm3`, `infant_birth_weight_kg`, `gestational_age_at_booking_weeks`, `gestational_age_at_delivery_weeks`, `art_adherence`, `infant_feeding_method`, `infant_pcr_result`
 
-Tech Stack
+### Tech Stack
 
-`pandas` · `NumPy` · `SciPy` · `scikit-learn` · `imbalanced-learn (SMOTE)` · `seaborn` · `matplotlib` · `SHAP`
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![SciPy](https://img.shields.io/badge/-SciPy-05122A?style=flat-square&logo=scipy&color=353535) ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![imbalanced-learn](https://img.shields.io/badge/-imbalanced--learn-05122A?style=flat-square&logo=scikitlearn&color=353535) ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat-square&color=353535) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat-square&logo=Matplotlib&color=353535) ![SHAP](https://img.shields.io/badge/-SHAP-05122A?style=flat-square&color=353535)
 
  Author:Stacey Nzighe Wachenje
